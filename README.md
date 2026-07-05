@@ -8,7 +8,7 @@
 <p align="center">
   <b>🐋 鲸鱼 &nbsp;|&nbsp; 🐙 章鱼 &nbsp;|&nbsp; 🐰 兔子 &nbsp;|&nbsp; 🐱 猫咪 &nbsp;|&nbsp; 🐶 小狗 &nbsp;|&nbsp; 🐹 仓鼠</b>
 </p>
-![Uploading 6af8e38812a35f8999549978587a6f31.gif…]()
+![护眼宠物演示](demo.gif)
 
 ---
 
