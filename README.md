@@ -8,7 +8,9 @@
 <p align="center">
   <b>🐋 鲸鱼 &nbsp;|&nbsp; 🐙 章鱼 &nbsp;|&nbsp; 🐰 兔子 &nbsp;|&nbsp; 🐱 猫咪 &nbsp;|&nbsp; 🐶 小狗 &nbsp;|&nbsp; 🐹 仓鼠</b>
 </p>
-![护眼宠物演示](demo.gif)
+<p align="center">
+  <img src="demo.gif" alt="像素护眼宠物桌面应用概况演示" width="800">
+</p>
 
 ---
 
